@@ -140,7 +140,3 @@ Joker names, descriptions, and flavor text here are written originally for
 this project rather than copied from the source game. If you extend this
 project, please continue writing your own descriptions and values rather
 than copying text or art assets directly.
-
-## License
-
-MIT — see [LICENSE](LICENSE) for details.
